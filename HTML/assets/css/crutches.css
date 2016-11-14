@@ -1,0 +1,15 @@
+.rateit-selected {}
+
+.rating.rateit-small.rateit {
+    display: none;
+}
+
+.action.m-t-10 {
+    display: none;
+}
+
+.action {}
+
+.cart.clearfix.animate-effect {
+    display: none;
+}
